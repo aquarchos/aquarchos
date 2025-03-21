@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @aquarchos
 - 👀 I’m interested in TTRPGs, VTTs, Statistical Analysis 
 - 🌱 I’m currently learning Foundry VTT, Obsidian, program rmarkdown
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
 <!---
